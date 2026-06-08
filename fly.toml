@@ -1,0 +1,12 @@
+﻿app = "uid-whitelist-manager"
+primary_region = "sin"
+
+[build]
+  [build.args]
+    PYTHON_VERSION = "3.10"
+
+[processes]
+  app = "python axcanmol.py"
+
+[env]
+  PYTHONUNBUFFERED = "1"
