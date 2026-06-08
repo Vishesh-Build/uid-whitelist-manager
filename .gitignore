@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Logs
+*.log
+access_token_log.txt
+
+# Runtime data
+uid.txt
+
+# Certificates / secrets
+*.pem
+*.key
+certificat_mitmproxy.pem
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+# Build
+dist/
+build/

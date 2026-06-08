@@ -1,0 +1,62 @@
+syntax = "proto3";
+
+package ob53;
+
+// OB53 iOS / FF MAX — khớp Node.js PROTO_SCHEMA
+message MajorLoginOb53 {
+  string event_time          = 3;
+  string game_name           = 4;
+  string client_version      = 7;
+  string system_software     = 8;
+  string system_hardware     = 9;
+  string telecom_operator    = 10;
+  string network_type        = 11;
+  uint32 screen_width        = 12;
+  uint32 screen_height       = 13;
+  string screen_dpi          = 14;
+  string processor_details   = 15;
+  uint32 memory              = 16;
+  string gpu_renderer        = 17;
+  string gpu_version         = 18;
+  string unique_device_id    = 19;
+  string client_ip           = 20;
+  string language            = 21;
+  string open_id             = 22;
+  string open_id_type        = 23;
+  string device_type         = 24;
+  string device_model        = 25;
+  string country             = 26;
+  string access_token        = 29;
+  int32  platform_sdk_id     = 30;
+  int32  internal_storage_total     = 62;
+  int32  internal_storage_available = 63;
+  int32  unk_70              = 70;
+  int32  login_by            = 73;
+  int32  reg_avatar          = 76;
+  string library_token       = 77;
+  int32  channel_type        = 78;
+  int32  cpu_type            = 79;
+  string client_version_code = 83;
+  int32  unk_85              = 85;
+  string graphics_api        = 86;
+  uint32 supported_astc_bitset = 87;
+  int32  login_open_id_type  = 88;
+  uint32 loading_time        = 92;
+  string release_channel     = 93;
+  string extra_info          = 94;
+  int32  if_push             = 97;
+  int32  is_vpn              = 98;
+  string origin_platform_type  = 99;
+  string primary_platform_type = 100;
+  bytes  unk_102             = 102;
+}
+
+message MajorLoginResOb53 {
+  uint64 account_uid = 1;
+  string region      = 2;
+  string token       = 8;
+  string url         = 10;
+  int64  timestamp   = 21;
+  bytes  key         = 22;
+  bytes  iv          = 23;
+}
