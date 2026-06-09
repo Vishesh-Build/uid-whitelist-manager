@@ -34,7 +34,7 @@ aesUtils = AESUtils()
 UID_CACHE = set()
 CACHE_LOCK = threading.Lock()
 LAST_REFRESH = 0
-REFRESH_INTERVAL = 300
+REFRESH_INTERVAL = 5
 
 HOP_BY_HOP = {
     "connection", "keep-alive", "proxy-authenticate", "proxy-authorization",
@@ -196,13 +196,8 @@ def check_uid(uid):
             threading.Thread(target=load_whitelist, daemon=True).start()
         return uid in UID_CACHE
 
-def auto_refresh():
-    while True:
-        load_whitelist()
-        time.sleep(5)
 load_whitelist()
-threading.Thread(target=auto_refresh, daemon=True).start()
-
+threading.Thread(target=load_whitelist, daemon=True).start()
 
 def save_mitmproxy_cert():
     try:
@@ -500,7 +495,7 @@ class MajorLoginInterceptor:
 ║  ► Anmol
 ║  ► Arpit
 ║                                                                  ║
-║  DAD ALRON
+║  AXC CORPORATION
 ╚══════════════════════════════════════════════════════════════╝"""
                 
                 flow.response.content = error_msg.encode("utf-8")
@@ -514,7 +509,7 @@ save_mitmproxy_cert()
 
 if __name__ == "__main__":
     print("\n" + "="*55)
-    print(" 🔥 DAD ALRON BYPASS 🔥")
+    print(" 🔥 AXC BYPASS 🔥")
     print("="*55)
     print(f" Whitelisted UIDs: {len(UID_CACHE)}")
     print(f" Firebase: Connected")
