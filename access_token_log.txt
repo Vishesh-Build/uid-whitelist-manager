@@ -1,0 +1,80 @@
+[2026-04-28 08:56:58 UTC] open_id=ddfb2a088f7610b722421ce42ed98bf8 | token=91d353061dca7043544934b6fb71799944e4c4756c3bc963562926f5a3a086b9 | platform=4
+[2026-04-28 08:56:58 UTC] open_id= | token= | platform= | uid=15414236221 | status=GRANTED
+[2026-04-28 09:03:16 UTC] open_id=ddfb2a088f7610b722421ce42ed98bf8 | token=91d353061dca7043544934b6fb71799944e4c4756c3bc963562926f5a3a086b9 | platform=4
+[2026-04-28 18:36:29 UTC] open_id=ddfb2a088f7610b722421ce42ed98bf8 | token=91d353061dca7043544934b6fb71799944e4c4756c3bc963562926f5a3a086b9 | platform=4
+[2026-04-28 18:59:02 UTC] open_id=ee2571b93cd47366a25000541ac461c0 | token=70e0cde49b346fcb5b47c6976394bb096d84fa0638e3b87021f3c0fe07c1f2dc | platform=8
+[2026-04-29 09:24:32 UTC] open_id=ee2571b93cd47366a25000541ac461c0 | token=70e0cde49b346fcb5b47c6976394bb096d84fa0638e3b87021f3c0fe07c1f2dc | platform=8
+[2026-04-29 09:24:32 UTC] open_id= | token= | platform= | uid=15414236221 | status=GRANTED
+[2026-04-29 10:01:42 UTC] open_id=ee2571b93cd47366a25000541ac461c0 | token=70e0cde49b346fcb5b47c6976394bb096d84fa0638e3b87021f3c0fe07c1f2dc | platform=8
+[2026-04-29 10:01:44 UTC] open_id= | token= | platform= | uid=15414236221 | status=GRANTED
+[2026-04-29 10:01:57 UTC] open_id=ee2571b93cd47366a25000541ac461c0 | token=70e0cde49b346fcb5b47c6976394bb096d84fa0638e3b87021f3c0fe07c1f2dc | platform=8
+[2026-04-29 10:01:57 UTC] open_id= | token= | platform= | uid=15414236221 | status=GRANTED
+[2026-04-29 10:02:10 UTC] open_id=ee2571b93cd47366a25000541ac461c0 | token=70e0cde49b346fcb5b47c6976394bb096d84fa0638e3b87021f3c0fe07c1f2dc | platform=8
+[2026-04-29 10:02:11 UTC] open_id= | token= | platform= | uid=15414236221 | status=GRANTED
+[2026-04-29 10:02:37 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea9e1bc04e47cc459b9cefd6569c174043a | platform=4
+[2026-04-29 10:03:22 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea9e1bc04e47cc459b9cefd6569c174043a | platform=4
+[2026-04-29 10:03:23 UTC] open_id= | token= | platform= | uid=15545899077 | status=DENIED
+[2026-04-29 10:03:29 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea9e1bc04e47cc459b9cefd6569c174043a | platform=4
+[2026-04-29 10:03:29 UTC] open_id= | token= | platform= | uid=15545899077 | status=DENIED
+[2026-04-29 10:03:31 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea9e1bc04e47cc459b9cefd6569c174043a | platform=4
+[2026-04-29 10:03:33 UTC] open_id= | token= | platform= | uid=15545899077 | status=DENIED
+[2026-04-29 10:03:38 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea9e1bc04e47cc459b9cefd6569c174043a | platform=4
+[2026-04-29 10:03:39 UTC] open_id= | token= | platform= | uid=15545899077 | status=DENIED
+[2026-04-29 10:03:39 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea9e1bc04e47cc459b9cefd6569c174043a | platform=4
+[2026-04-29 10:03:39 UTC] open_id= | token= | platform= | uid=15545899077 | status=DENIED
+[2026-04-29 10:13:03 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea98565bbd9f951c456d47479865061bb33 | platform=4
+[2026-04-29 10:13:03 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-04-29 10:13:42 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=b39a634f30a8bb6c49e3106eba73eea9156b3871b3dd4ddee20ba293b4765128 | platform=4
+[2026-04-29 10:13:42 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-04-29 12:38:46 UTC] open_id=c8f3726ed2964099d3ba41c1a04d06f8 | token=1e6b6a17498e2ff096e964cec5930941d699a87c1d3c0402a9629b28416e773d | platform=8
+[2026-04-29 12:38:46 UTC] open_id= | token= | platform= | uid=11187234529 | status=GRANTED
+[2026-04-30 09:25:59 UTC] open_id=3b517d68826b7db065e472746f723909 | token=24dd53d6a110a57603a0721676730f7b01900a4ddbf85caf11c8ff3671c8744a | platform=3
+[2026-04-30 09:25:59 UTC] open_id= | token= | platform= | uid=5574698793 | status=DENIED
+[2026-04-30 09:26:02 UTC] open_id=3b517d68826b7db065e472746f723909 | token=24dd53d6a110a57603a0721676730f7b01900a4ddbf85caf11c8ff3671c8744a | platform=3
+[2026-04-30 09:26:02 UTC] open_id= | token= | platform= | uid=5574698793 | status=DENIED
+[2026-04-30 09:26:09 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-04-30 09:26:10 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-04-30 09:26:59 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-04-30 09:26:59 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-04-30 09:36:19 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-04-30 09:37:36 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-04-30 09:37:37 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-04-30 09:37:49 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-04-30 09:37:49 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-04-30 09:38:55 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-04-30 09:38:55 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-05-01 10:19:50 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-05-01 10:25:17 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-05-01 10:25:18 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-05-01 10:35:25 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-05-01 10:35:26 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-05-01 10:38:10 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-05-01 10:38:10 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-05-01 10:41:08 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-05-01 10:41:08 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-05-01 10:45:50 UTC] open_id=79ca38f4f893f63c951250eb0e149bd6 | token=ccc5efdf8afe9877645246bc67055f9a0586e2c84a231c0ff99aa200ec1d47aa | platform=4
+[2026-05-01 10:45:51 UTC] open_id= | token= | platform= | uid=15545899077 | status=GRANTED
+[2026-05-08 06:44:45 UTC] open_id=c8f3726ed2964099d3ba41c1a04d06f8 | token=3a2ccc70f0157578a755c9c704ba65e07694f7d5c66b9969dbf340f3bc1e22a0 | platform=8
+[2026-05-08 06:44:46 UTC] open_id= | token= | platform= | uid=11187234529 | status=GRANTED
+[2026-05-08 06:50:36 UTC] open_id=c8f3726ed2964099d3ba41c1a04d06f8 | token=3a2ccc70f0157578a755c9c704ba65e07694f7d5c66b9969dbf340f3bc1e22a0 | platform=8
+[2026-05-08 06:50:37 UTC] open_id= | token= | platform= | uid=11187234529 | status=GRANTED
+[2026-05-08 08:55:23 UTC] open_id=c8f3726ed2964099d3ba41c1a04d06f8 | token=3a2ccc70f0157578a755c9c704ba65e07694f7d5c66b9969dbf340f3bc1e22a0 | platform=8
+[2026-05-08 08:55:24 UTC] open_id= | token= | platform= | uid=11187234529 | status=GRANTED
+[2026-05-08 19:28:35 UTC] open_id=5e7c4b2f042b941d52b54c58449cc546 | token=c3c6f66d6fbcf28bbd076bc967d6c469068282354f809016548063eba165f51c | platform=8
+[2026-05-08 19:28:36 UTC] open_id= | token= | platform= | uid=9546603566 | status=GRANTED
+[2026-05-09 09:54:46 UTC] open_id=5e7c4b2f042b941d52b54c58449cc546 | token=c3c6f66d6fbcf28bbd076bc967d6c469068282354f809016548063eba165f51c | platform=8
+[2026-05-09 09:54:47 UTC] open_id= | token= | platform= | uid=9546603566 | status=GRANTED
+[2026-06-07 12:47:45 UTC] open_id=6faa723ccdeba967e64c028e462f7feb | token=ed4022b2482e8ce248abe59bf59033ec0911a4a197243e3cc451bd809dcb4747 | platform=4
+[2026-06-07 12:47:47 UTC] open_id= | token= | platform= | uid=15950120374 | status=GRANTED
+[2026-06-07 12:54:52 UTC] open_id=580154c3ee67c8e340823824e9ccdcc0 | token=64fdedd8f3944c0e861ef66439f3b63b349f09117d6fd73afa4c7a380a91f58d | platform=8
+[2026-06-07 12:54:53 UTC] open_id= | token= | platform= | uid=11851798163 | status=GRANTED
+[2026-06-08 04:13:03 UTC] open_id=580154c3ee67c8e340823824e9ccdcc0 | token=64fdedd8f3944c0e861ef66439f3b63b349f09117d6fd73afa4c7a380a91f58d | platform=8
+[2026-06-08 04:13:04 UTC] open_id= | token= | platform= | uid=11851798163 | status=GRANTED
+[2026-06-08 04:15:49 UTC] open_id=580154c3ee67c8e340823824e9ccdcc0 | token=64fdedd8f3944c0e861ef66439f3b63b349f09117d6fd73afa4c7a380a91f58d | platform=8
+[2026-06-08 04:15:50 UTC] open_id= | token= | platform= | uid=11851798163 | status=GRANTED
+[2026-06-08 08:29:24 UTC] open_id=580154c3ee67c8e340823824e9ccdcc0 | token=64fdedd8f3944c0e861ef66439f3b63b349f09117d6fd73afa4c7a380a91f58d | platform=8
+[2026-06-08 08:29:26 UTC] open_id= | token= | platform= | uid=11851798163 | status=GRANTED
+[2026-06-08 09:24:40 UTC] open_id=580154c3ee67c8e340823824e9ccdcc0 | token=64fdedd8f3944c0e861ef66439f3b63b349f09117d6fd73afa4c7a380a91f58d | platform=8
+[2026-06-08 09:24:41 UTC] open_id= | token= | platform= | uid=11851798163 | status=GRANTED
+[2026-06-08 09:26:19 UTC] open_id=580154c3ee67c8e340823824e9ccdcc0 | token=64fdedd8f3944c0e861ef66439f3b63b349f09117d6fd73afa4c7a380a91f58d | platform=8
+[2026-06-08 09:26:20 UTC] open_id= | token= | platform= | uid=11851798163 | status=GRANTED
